@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="footerClr">#2196F3</color>
+    <color name="bg">#468AAC</color>
+    <color name="btn">#F7893E</color>
+
+</resources>
